@@ -1,0 +1,129 @@
+{
+    "products": [
+        {
+            "name": "chocolate-puff",
+            "price": "$1.99",
+            "productTypeId": 1,
+            "id": 1
+        },
+        {
+            "name": "sugar-bomb",
+            "price": "$0.49",
+            "productTypeId": 2,
+            "id": 2
+        },
+        {
+            "name": "mouth-color-changer",
+            "price": "$3.99",
+            "productTypeId": 2,
+            "id": 3
+        },
+        {
+            "name": "energy-burst",
+            "price": "$4.99",
+            "productTypeId": 3,
+            "id": 4
+        },
+        {
+            "name": "fortune-telling",
+            "price": "$99.99",
+            "productTypeId": 4,
+            "id": 5
+
+            
+        }
+    ],
+    "locations": [
+        {
+            "name": "Kandy North",
+            "address": "111 Oh My Ave",
+            "squareFootage": 800,
+            "accessible": true,
+            "id": 1
+        },
+        {
+            "name": "Kandy West",
+            "address": "222 Tounge Turns Blue Blvd",
+            "squareFootage": 1000,
+            "accessible": true,
+            "id": 2
+        },
+        {
+            "name": "Kandy East",
+            "address": "333 More For Me Lane",
+            "squareFootage": 400,
+            "accessible": false,
+            "id": 3
+        },
+        {
+            "name": "Kandy South",
+            "address": "444 Just One More Way",
+            "squareFootage": 700,
+            "accessible": false,
+            "id": 4
+        }
+    ],
+    "employees": [
+        {
+            "name": "Sydney Sykes",
+            "locationId": 1,
+            "position": "cashier"
+        },
+        {
+            "name": "Miranda Moon",
+            "locationId": 2,
+            "position": "fortune-teller"
+        },
+        {
+            "name": "Brittney Blush",
+            "locationId": 3,
+            "position": "marketing"
+        },
+        {
+            "name": "Carlos Chantacleer",
+            "locationId": 4,
+            "position": "warehouse"
+        }
+    ],
+    "productTypes": [
+        {
+            "name": "chocolate",
+            "id": 1
+        },
+        {
+            "name": "candy",
+            "id": 2
+        },
+        {
+            "name": "energy",
+            "id": 3
+        },
+        {
+            "name": "divination",
+            "id": 4
+        }
+
+    ],
+    "customers": [
+        {
+            "name": "Suzie Squeaky-Wheel",
+            "address": "1005  Mount Olive Road",
+            "id": 1
+        },
+        {
+            "name": "Timothy ToothFairy",
+            "address": "317  Hanifan Lane",
+            "id": 2
+        },
+        {
+            "name": "Bob Burgerman",
+            "address": "4459  Ralph Drive",
+            "id": 3
+        },
+        {
+            "name": "Oprah Winfrey",
+            "address": "435  Color Purple Place",
+            "id": 4
+        }
+    ]
+}
