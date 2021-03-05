@@ -113,22 +113,38 @@
         {
             "name": "Sydney Sykes",
             "locationId": 1,
-            "position": "cashier"
+            "position": "Cashier",
+            "manager": false,
+            "status": "Full Time",
+            "hourlyRate": "$17.00",
+            "id": 1
         },
         {
             "name": "Miranda Moon",
             "locationId": 2,
-            "position": "fortune-teller"
+            "position": "Fortune-teller",
+            "manager": false,
+            "status": "Full Time",
+            "hourlyRate": "$35.00",
+            "id": 2
         },
         {
             "name": "Brittney Blush",
             "locationId": 3,
-            "position": "marketing"
+            "position": "Marketing",
+            "manager": false,
+            "status": "Full Time",
+            "hourlyRate": "$30.00",
+            "id": 3
         },
         {
             "name": "Carlos Chantacleer",
             "locationId": 4,
-            "position": "warehouse"
+            "position": "Warehouse",
+            "manager": false,
+            "status": "Full Time",
+            "hourlyRate": "$17.00",
+            "id": 4
         }
     ],
     "customers": [
