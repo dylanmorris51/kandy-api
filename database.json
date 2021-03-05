@@ -28,9 +28,55 @@
             "name": "fortune-telling",
             "price": "$99.99",
             "productTypeId": 4,
+            "id": 5  
+        },
+        {
+            "name": "soda-blast",
+            "price": "$2.99",
+            "productTypeId": 6,
+            "id": 6  
+        },
+        {
+            "name": "rock-nuggets",
+            "price": "$3.99",
+            "productTypeId": 5,
+            "id": 7  
+        },
+        {
+            "name": "groovy-gum",
+            "price": "$1.99",
+            "productTypeId": 7,
+            "id": 8  
+        }
+    ],
+    "productTypes": [
+        {
+            "name": "chocolate",
+            "id": 1
+        },
+        {
+            "name": "candy",
+            "id": 2
+        },
+        {
+            "name": "energy",
+            "id": 3
+        },
+        {
+            "name": "divination",
+            "id": 4
+        },
+        {
+            "name": "hard candy",
             "id": 5
-
-            
+        },
+        {
+            "name": "soda",
+            "id": 6
+        },
+        {
+            "name": "gum",
+            "id": 7
         }
     ],
     "locations": [
@@ -84,25 +130,6 @@
             "locationId": 4,
             "position": "warehouse"
         }
-    ],
-    "productTypes": [
-        {
-            "name": "chocolate",
-            "id": 1
-        },
-        {
-            "name": "candy",
-            "id": 2
-        },
-        {
-            "name": "energy",
-            "id": 3
-        },
-        {
-            "name": "divination",
-            "id": 4
-        }
-
     ],
     "customers": [
         {
